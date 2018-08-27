@@ -4,4 +4,4 @@ This project demonstrates how CSS radial gradients can be used to create a focus
 ![Radial Gradient Spotlight Effect Demo](https://github.com/georgewpark/Radial-Gradient-Spotlight-Effect/blob/master/demo-gif.gif "Radial Gradient Spotlight Effect Demo")
 
 ## Live Demo
-A live demo is available on [CodePen](https://codepen.io/GeorgePark/pen/ELemzZ).
+A live demo is available on [CodePen](https://codepen.io/GeorgePark/full/ELemzZ).
